@@ -1,0 +1,49 @@
+name: todd.berge
+description: Digitized
+version: 0.0.1
+author: og6nedsi.bjik9dcn@d5xcgsky.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: toddberge
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 20:28:09'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 20:28:09'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T20:28:09.481712Z'
+  name: plibMaven
+  version: 8.5.0-SNAPSHOT
+  id: '1096738738'
+  createdAt: '2024-10-24T20:28:09.481712Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
